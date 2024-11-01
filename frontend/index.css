@@ -1,0 +1,15 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+#editor {
+    height: 200px;
+    background-color: white;
+}
+
+.card {
+    background-color: white;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
